@@ -1,32 +1,45 @@
-# 🚀 15 Days of Code Challenge - by @digg_deeperr
+# 🔥 15 Days of Code Challenge - by @digg_deeperr
 
-Welcome to the **15-Day Coding Consistency Challenge** inspired by our Instagram community at [@digg_deeperr](https://www.instagram.com/digg_deeperr)!  
-This repo serves as a central place to track our daily questions, solutions, and explanations during the challenge.
+Welcome to the **15-Day Coding Consistency Challenge** by [@digg_deeperr](https://www.instagram.com/digg_deeperr)!  
+This GitHub repository serves as a central hub to document each day's coding questions, solutions, and explanations.
+
+We aim to build the habit of **daily coding**—one problem at a time, one day at a time. Let's dig deeper together! 💻🚀
 
 ---
 
-## 📌 What is This?
+## 📅 Challenge Overview
 
-We're on a mission to build a consistent coding habit in just **15 days**.
+🗓 **Duration:** 15 Days  
+📍 **Platform:** LeetCode + Custom Logic Problems  
+📸 **Instagram Updates:** [@digg_deeperr](https://www.instagram.com/digg_deeperr)
 
 Each day, we:
-- Post a **new coding question** on Instagram
-- Solve it and upload the solution here
-- Share explanations, alternate methods, and tips
+- Post 2–3 handpicked coding questions on Instagram
+- Solve and upload them here with explanations
+- Encourage the community to participate and stay consistent
 
-No pressure—just progress, one step at a time.
+
+Each file includes:
+- ✅ Problem statement  
+- 💡 Approach/Logic  
+- 🧑‍💻 Clean Code Solution  
+- 📘 Optional Notes or Edge Cases
 
 ---
 
-## 📅 Challenge Timeline
+## ✅ Challenge Progress
 
-| Day | Topic                        | Status |
-|-----|-----------------------------|--------|
-| 01  | Remove Duplicates from Array| ✅ Done |
-| 02  | Kadane’s Algorithm          | ✅ Done |
-| 03  | ...                         | 🔜 Coming |
-| ... |                             |        |
-| 15  | Final Challenge             | ⏳ Pending |
+| Day | Topics Covered                                          | Status |
+|-----|----------------------------------------------------------|--------|
+| 01  | LC-1 Two Sum, LC-53 Max Subarray, LC-26 Remove Duplicates | ✅ Done |
+| 02  | ...                                                      | 🔜 Coming |
+| 03  | ...                                                      | 🔜 Coming |
+| ... | ...                                                      |        |
+| 15  | Final Day                                                | ⏳ Pending |
+
+---
+
+**#DiggDeeper #15DaysOfCode #CodingConsistency**
 
 
 
