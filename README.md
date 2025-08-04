@@ -31,9 +31,10 @@ Each file includes:
 
 | Day | Topics Covered                                                                 | Status |
 |-----|----------------------------------------------------------------------------------|--------|
-| 01  | LC-1 Two Sum, LC-53 Max Subarray, LC-26 Remove Duplicates from Sorted Array     | ✅ Done |
+| 01  | LC-1 Two Sum, LC-53 Max Subarray, LC-26 Remove Duplicates                       | ✅ Done |
 | 02  | LC-121 Best Time to Buy/Sell Stock, LC-125 Valid Palindrome, LC-238 Product Except Self | ✅ Done |
-| 03  | ...                                                                              | 🔜 Coming |
+| 03  | LC-242 Valid Anagram, LC-28 First Index of String, LC-49 Group Anagrams         | ✅ Done |
+| 04  | ...                                                                              | 🔜 Coming |
 | ... | ...                                                                              |        |
 | 15  | Final Day                                                                        | ⏳ Pending |
 
