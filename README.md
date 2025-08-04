@@ -29,13 +29,13 @@ Each file includes:
 
 ## ✅ Challenge Progress
 
-| Day | Topics Covered                                          | Status |
-|-----|----------------------------------------------------------|--------|
-| 01  | LC-1 Two Sum, LC-53 Max Subarray, LC-26 Remove Duplicates | ✅ Done |
-| 02  | ...                                                      | 🔜 Coming |
-| 03  | ...                                                      | 🔜 Coming |
-| ... | ...                                                      |        |
-| 15  | Final Day                                                | ⏳ Pending |
+| Day | Topics Covered                                                                 | Status |
+|-----|----------------------------------------------------------------------------------|--------|
+| 01  | LC-1 Two Sum, LC-53 Max Subarray, LC-26 Remove Duplicates from Sorted Array     | ✅ Done |
+| 02  | LC-121 Best Time to Buy/Sell Stock, LC-125 Valid Palindrome, LC-238 Product Except Self | ✅ Done |
+| 03  | ...                                                                              | 🔜 Coming |
+| ... | ...                                                                              |        |
+| 15  | Final Day                                                                        | ⏳ Pending |
 
 ---
 
