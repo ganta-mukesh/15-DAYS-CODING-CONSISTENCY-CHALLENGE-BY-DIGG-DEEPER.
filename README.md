@@ -29,14 +29,17 @@ Each file includes:
 
 ## ✅ Challenge Progress
 
-| Day | Topics Covered                                                                 | Status |
-|-----|----------------------------------------------------------------------------------|--------|
-| 01  | LC-1 Two Sum, LC-53 Max Subarray, LC-26 Remove Duplicates                       | ✅ Done |
-| 02  | LC-121 Best Time to Buy/Sell Stock, LC-125 Valid Palindrome, LC-238 Product Except Self | ✅ Done |
-| 03  | LC-242 Valid Anagram, LC-28 First Index of String, LC-49 Group Anagrams         | ✅ Done |
-| 04  | ...                                                                              | 🔜 Coming |
-| ... | ...                                                                              |        |
-| 15  | Final Day                                                                        | ⏳ Pending |
+| Day | Topics Covered                                                                                         | Status |
+|-----|----------------------------------------------------------------------------------------------------------|--------|
+| 01  | LC-1 Two Sum, LC-53 Max Subarray, LC-26 Remove Duplicates from Sorted Array                             | ✅ Done |
+| 02  | LC-121 Best Time to Buy/Sell Stock, LC-125 Valid Palindrome, LC-238 Product of Array Except Self        | ✅ Done |
+| 03  | LC-242 Valid Anagram, LC-28 First Index of String, LC-49 Group Anagrams                                  | ✅ Done |
+| 04  | LC-5 Longest Palindromic Substring, LC-20 Valid Parentheses, LC-560 Subarray Sum Equals K               | ✅ Done |
+| 05  | LC-704 Binary Search, LC-141 Linked List Cycle, LC-42 Trapping Rain Water                                | ✅ Done |
+| 06  | LC-3 Longest Substring Without Repeating Characters, LC-35 Search Insert Position, LC-167 Two Sum II    | ✅ Done |
+| 07  | ...                                                                                                       | 🔜 Coming |
+| ... | ...                                                                                                       |        |
+| 15  | Final Day                                                                                                | ⏳ Pending |
 
 ---
 
