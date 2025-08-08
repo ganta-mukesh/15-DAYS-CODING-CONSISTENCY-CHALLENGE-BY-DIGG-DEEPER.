@@ -37,9 +37,11 @@ Each file includes:
 | 04  | LC-5 Longest Palindromic Substring, LC-20 Valid Parentheses, LC-560 Subarray Sum Equals K               | ✅ Done |
 | 05  | LC-704 Binary Search, LC-141 Linked List Cycle, LC-42 Trapping Rain Water                                | ✅ Done |
 | 06  | LC-3 Longest Substring Without Repeating Characters, LC-35 Search Insert Position, LC-167 Two Sum II    | ✅ Done |
-| 07  | ...                                                                                                       | 🔜 Coming |
+| 07  | LC-456 132 Pattern, LC-92 Reverse Linked List II, LC-239 Sliding Window Maximum                         | ✅ Done |
+| 08  | ...                                                                                                       | 🔜 Coming |
 | ... | ...                                                                                                       |        |
 | 15  | Final Day                                                                                                | ⏳ Pending |
+                                                                                            | ⏳ Pending |
 
 ---
 
