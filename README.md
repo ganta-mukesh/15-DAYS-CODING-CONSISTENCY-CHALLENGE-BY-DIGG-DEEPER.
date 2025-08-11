@@ -38,11 +38,12 @@ Each file includes:
 | 05  | LC-704 Binary Search, LC-141 Linked List Cycle, LC-42 Trapping Rain Water                                | ✅ Done |
 | 06  | LC-3 Longest Substring Without Repeating Characters, LC-35 Search Insert Position, LC-167 Two Sum II    | ✅ Done |
 | 07  | LC-456 132 Pattern, LC-92 Reverse Linked List II, LC-239 Sliding Window Maximum                         | ✅ Done |
-| 08  | LC-71 Simplify Path, LC-227 Basic Calculator II, LC-394 Decode String                                   | ✅ Done |
-| 09  | ...                                                                                                       | 🔜 Coming |
+| 08  | LC-71 Simplify Path, LC-227 Basic Calculator III, LC-394 Decode String                                   | ✅ Done |
+| 09  | LC-104 Maximum Depth of Binary Tree, LC-11 Container With Most Water, LC-560 Subarray Sum Equals K      | ✅ Done |
+| 10  | ...                                                                                                       | 🔜 Coming |
 | ... | ...                                                                                                       |        |
 | 15  | Final Day                                                                                                | ⏳ Pending |
-
+                                                                                                                 | ⏳ Pending |
 
 ---
 
