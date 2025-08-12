@@ -40,10 +40,10 @@ Each file includes:
 | 07  | LC-456 132 Pattern, LC-92 Reverse Linked List II, LC-239 Sliding Window Maximum                         | ✅ Done |
 | 08  | LC-71 Simplify Path, LC-227 Basic Calculator III, LC-394 Decode String                                   | ✅ Done |
 | 09  | LC-104 Maximum Depth of Binary Tree, LC-11 Container With Most Water, LC-560 Subarray Sum Equals K      | ✅ Done |
-| 10  | ...                                                                                                       | 🔜 Coming |
+| 10  | LC-509 Fibonacci Number, LC-70 Climbing Stairs, LC-111 Minimum Depth of Binary Tree                     | ✅ Done |
+| 11  | ...                                                                                                       | 🔜 Coming |
 | ... | ...                                                                                                       |        |
 | 15  | Final Day                                                                                                | ⏳ Pending |
-                                                                                                                 | ⏳ Pending |
 
 ---
 
