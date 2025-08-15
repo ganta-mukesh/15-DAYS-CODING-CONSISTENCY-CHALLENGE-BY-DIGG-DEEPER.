@@ -44,8 +44,9 @@ Each file includes:
 | 11  | LC-236 Lowest Common Ancestor of Binary Tree, LC-322 Coin Change, LC-200 Number of Islands               | ✅ Done |
 | 12  | LC-19 Remove Nth Node From End of List, LC-234 Palindrome Linked List, LC-160 Intersection of Two Linked Lists | ✅ Done |
 | 13  | LC-1209 Remove All Adjacent Duplicates in String II, LC-735 Asteroid Collision, LC-1544 Make The String Great | ✅ Done |
-| 14  | ...                                                                                                       | 🔜 Coming |
+| 14  | LC-231 Power of Two, LC-2220 Minimum Bit Flips to Convert Number, LC-204 Count Primes                   | ✅ Done |
 | 15  | Final Day                                                                                                | ⏳ Pending |
+
                                                                                                
 ---
 
